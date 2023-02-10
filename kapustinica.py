@@ -25,3 +25,4 @@ for i in text:
         vIsWaiting += 1
 
 print(newText+"T"*vIsWaiting)
+print("David je divny")
